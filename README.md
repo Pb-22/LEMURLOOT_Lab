@@ -1,4 +1,4 @@
-```markdown
+
 # LEMURLOOT Emulation & Zeek Detection (Copy‑Paste Lab)
 
 Hands‑on lab to **emulate LEMURLOOT‑style traffic** (as observed in MOVEit incidents) and **detect it with Zeek** using a short, high‑signal policy script.
@@ -310,6 +310,4 @@ MIT (suggested). Feel free to replace with your preferred license and include a 
 ## Acknowledgments
 
 Inspired by public reporting on MOVEit/LEMURLOOT behavior and built to help practitioners practice **sequence‑based detection** with Zeek.
-
-```
 
